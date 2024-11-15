@@ -55,8 +55,3 @@ Contributions are welcome! If you have ideas to improve this project or find bug
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
-
-
----
-
-Make sure to update details such as your name, GitHub link, and contact information before publishing the `README.md` file on GitHub. If there are specific rules or features of the script that need to be highlighted, you can adjust the content accordingly. Let me know if you'd like any specific modifications or additional sections!
